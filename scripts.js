@@ -31,8 +31,7 @@ var Main = React.createClass({
 	    		<div id="log-entry">
 					<h5 id="log-title">// 002 - 30/11/2016</h5>
 					<p>
-						Since I started taking a node course from Udemy, I have learned a lot about how javascript really works under the hood, how the V8 engine compiles javascript into machine code and how NodeJS is based upon it.<br/>
-						I find it really useful to really see the code instead of just taking it for granted.<br/>
+						Since I started taking a node course from Udemy, I have learned a lot about how javascript really works under the hood, how the V8 engine compiles javascript into machine code and how NodeJS is based upon it, it was really useful to see the code behind my code instead of just accepting it.<br/>
 						Next stop was the <i>module.export</i> and <i>require</i> functions, ES6 has his own implementation of these two basic functions too now as they allow to easily split code into different files and if needs be, make some part of your code private.<br/>
 						Unfortunately I have not built anything using back-end, as I am partecipating in the December gamedev challenge on FreeCodeCamp and helping(mostly be helped) on the red pandas cohort I am splitting my coding hours to be able to get a bigger picture.<br/>
 						One red pandas cohort project I realized today gave me the new favicon you can see on this page and the <a href="http://pairboard.surge.sh/">pair programming app</a> developed by this same cohort. I will link the GitHub page with instructions on how to have and use it on your own page.
